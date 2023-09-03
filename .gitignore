@@ -1,0 +1,30 @@
+# Compiled files
+/target/
+
+# Ignore Rust's Cargo.lock file for libraries
+Cargo.lock
+
+# Ignore .env files
+.env
+
+# IDE files
+.vscode/
+.idea/
+.vs/
+
+# macOS files
+.DS_Store
+
+# Linux files
+*~
+
+# Windows files
+*.dll
+*.exe
+*.o
+*.obj
+*.so
+*.pdb
+*.ilk
+Thumbs.db
+Desktop.ini
